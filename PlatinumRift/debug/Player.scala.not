@@ -1,0 +1,7 @@
+
+object Player {
+
+  def main(args: Array[String]) {
+    while (true) Console.err.println(readLine)
+  }
+}
