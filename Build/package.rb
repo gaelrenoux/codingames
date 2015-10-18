@@ -21,5 +21,6 @@ prepare_file('PlatinumRift')
 prepare_file('PokerChipRace')
 prepare_file('Tron')
 prepare_file('BackToTheCode')
+prepare_file('MarsLanderLvl2')
 
-display_in_console('Tron')
+display_in_console('MarsLanderLvl2')
