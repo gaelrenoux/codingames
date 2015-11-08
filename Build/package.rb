@@ -22,5 +22,7 @@ prepare_file('PokerChipRace')
 prepare_file('Tron')
 prepare_file('BackToTheCode')
 prepare_file('MarsLanderLvl2')
+prepare_file('IndianaLvl1')
+prepare_file('BenderADepressedRobot')
 
-display_in_console('MarsLanderLvl2')
+display_in_console('BenderADepressedRobot')
